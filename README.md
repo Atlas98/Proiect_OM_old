@@ -17,7 +17,7 @@ Actions:
   
   Frees an internal data struct
   
-# data_set_timeout
+# networking_data_set_timeout
   params: id
   returns: 1 if success, 0 if failure
   
